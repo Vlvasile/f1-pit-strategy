@@ -1,0 +1,12 @@
+.git
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+cache/
+data/
+notebooks/
+images/
+tests/
+mlflow.db
+mlruns/
